@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    background-color: #21222A;
+    padding: 30px 25px;
+     height: 90px;
+}
+
